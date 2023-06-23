@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="путь к файлу" alt="альтернативный текст">
 <!--
 **Utkir-M/Utkir-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
