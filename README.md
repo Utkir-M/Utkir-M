@@ -1,4 +1,4 @@
-<img src="путь к файлу" alt="альтернативный текст">
+<img src="https://github.com/Utkir-M/Utkir-M/blob/main/header.png" alt="Приветствие!">
 <!--
 **Utkir-M/Utkir-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
